@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GatoApp</string>
+    <string-array name="deficiency_type">
+        <item>Deutaronopia</item>
+        <item>Tritanopia</item>
+        <item>Protanopia</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
